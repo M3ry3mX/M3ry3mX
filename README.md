@@ -41,7 +41,7 @@ Thanks for stopping by, and happy coding! 🚀😊
 
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Errym&theme=merko)](https://github.com/Errym/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Errym&layout=donut&theme=merko)](https://github.com/Errym/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3ry3mX&theme=merko)](https://github.com/Errym/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3ry3mX&layout=donut&theme=merko)](https://github.com/M3ry3mX/github-readme-stats)
 
 </div>
 
